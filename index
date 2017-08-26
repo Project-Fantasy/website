@@ -1,0 +1,40 @@
+<TITLE>
+	Home
+</TITLE>
+<HEAD>
+</HEAD>
+<BODY BGCOLOR=#03071E TEXT= #99D8FC LINK = "#99D8FC" VLINK="#3F74E4" Alink="#3F74E4">
+<A HREF="top"></A>
+	<TABLE BORDER="0" WIDTH="960" 
+ALIGN="CENTER" BORDERCOLOR=#495189 BGCOLOR=#03071E FONT COLOR="#99D8FC">
+		<TR HEIGHT="200">
+	<TH COLSPAN="3" BGCOLOR=#0C183E><A HREF="index.html"> GARROX</TH>
+		</TR>
+
+		<TR HEIGHT="50">
+	<TH BGCOLOR=#495189><A HREF="index.html">HOME</TH>
+	<TH BGCOLOR=#1E3061><A HREF="about.html">ABOUT</TH>
+	<TH BGCOLOR=#1E3061><A HREF="links.html">LINKS</TH>
+		</TR>
+
+		<TR HEIGHT="500">
+	<TH COLSPAN="3">
+Welcome to the Garrox database!
+Garrox are nocturnal earth spirits brought to life by a Sire to protect and heal the world around them. However, when a battle between the deities rages, the species finds itself on the brink of destruction, on the verge of tearing themselves apart. 
+<BR>
+<IMG SRC="belial-head.png"WIDTH="300"ALIGN="CENTER">
+	
+	</TH>
+		</TR>
+
+		<TR HEIGHT="50">
+	<TH BGCOLOR=#1E3061> Copyright 2017</TH>
+	<TH BGCOLOR=#1E3061><A HREF="#"> Reference List</TH>
+	<TH BGCOLOR=#1E3061><A HREF="#"> Download Report</TH>
+		</TR>
+</TABLE>
+
+
+<CENTER><A HREF="#top">Return to top</A><CENTER>
+</BODY>
+</HTML>
